@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/lmj-react/static/css/main.ba31f8cd.chunk.css",
+    "main.js": "/lmj-react/static/js/main.81f813e2.chunk.js",
+    "main.js.map": "/lmj-react/static/js/main.81f813e2.chunk.js.map",
+    "runtime-main.js": "/lmj-react/static/js/runtime-main.dfea58fb.js",
+    "runtime-main.js.map": "/lmj-react/static/js/runtime-main.dfea58fb.js.map",
+    "static/js/2.e2ae8d2e.chunk.js": "/lmj-react/static/js/2.e2ae8d2e.chunk.js",
+    "static/js/2.e2ae8d2e.chunk.js.map": "/lmj-react/static/js/2.e2ae8d2e.chunk.js.map",
+    "index.html": "/lmj-react/index.html",
+    "static/css/main.ba31f8cd.chunk.css.map": "/lmj-react/static/css/main.ba31f8cd.chunk.css.map",
+    "static/js/2.e2ae8d2e.chunk.js.LICENSE.txt": "/lmj-react/static/js/2.e2ae8d2e.chunk.js.LICENSE.txt",
+    "static/media/basil.be00474e.jpg": "/lmj-react/static/media/basil.be00474e.jpg",
+    "static/media/cactus.a71c2062.jpg": "/lmj-react/static/media/cactus.a71c2062.jpg",
+    "static/media/calathea.455c33e2.jpg": "/lmj-react/static/media/calathea.455c33e2.jpg",
+    "static/media/lyrata.2e915120.jpg": "/lmj-react/static/media/lyrata.2e915120.jpg",
+    "static/media/mint.b83a3d2e.jpg": "/lmj-react/static/media/mint.b83a3d2e.jpg",
+    "static/media/monstera.ec0819da.jpg": "/lmj-react/static/media/monstera.ec0819da.jpg",
+    "static/media/olivier.b2908b40.jpg": "/lmj-react/static/media/olivier.b2908b40.jpg",
+    "static/media/pothos.d72dc0ac.jpg": "/lmj-react/static/media/pothos.d72dc0ac.jpg",
+    "static/media/succulent.f4329849.jpg": "/lmj-react/static/media/succulent.f4329849.jpg",
+    "static/media/sun.26fb5ace.svg": "/lmj-react/static/media/sun.26fb5ace.svg",
+    "static/media/water.cceb486f.svg": "/lmj-react/static/media/water.cceb486f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfea58fb.js",
+    "static/js/2.e2ae8d2e.chunk.js",
+    "static/css/main.ba31f8cd.chunk.css",
+    "static/js/main.81f813e2.chunk.js"
+  ]
+}
