@@ -1,0 +1,29 @@
+img {
+    width:12px;
+    object-fit: cover;
+}
+.water, .light{
+    background-color: whitesmoke;
+    padding-left: 3px;
+    width:40px;
+    min-width: 40px;
+    border:1px solid royalblue;
+    border-radius: 8px;
+    height:20px;
+    max-height: 20px;
+
+}
+.light{
+    margin-top:2px;
+    border:1px solid orange;
+}
+
+.light:hover {
+    background-color: lighten(orange, 35%);
+    cursor: help;
+}
+.water:hover {
+    background: lighten(royalblue, 35%);
+    cursor: help;
+}
+

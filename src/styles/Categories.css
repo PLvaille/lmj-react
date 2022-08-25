@@ -1,0 +1,33 @@
+.lmj-categories {
+	border-bottom:1px solid white;
+	border-left:1px solid white;
+	border-right:1px solid white;
+	border-bottom-left-radius: 24px;
+	border-bottom-right-radius: 24px;
+	width:32%;
+	min-width: 300px;
+	margin:0 auto;
+	text-align: center;
+	padding: 8px 0 24px;
+	border-bottom:1px solid white;
+	background: #31b572;
+}
+
+.lmj-categories-select {
+	margin-right: 15px;
+}
+
+.btn-reset-filters {
+	color:black;
+	text-shadow: none;
+	margin : 24px 0 0;
+}
+
+.filter-label {
+	color:white;
+}
+
+h3{
+	color : white;
+	margin:8px 0;
+}

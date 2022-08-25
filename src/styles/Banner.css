@@ -1,0 +1,47 @@
+.lmj-banner {
+	position:relative;
+	background: linear-gradient(to bottom, white, white, #31b572);
+	color: black;
+	text-align: right;
+	padding: 32px;
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.lmj-title {
+	padding-left: 32px;
+}
+
+.lmj-logo {
+	height: 45px;
+	width: 45px;
+}
+
+.cart-total{
+	position:absolute;
+	bottom:12px;
+	left:12px;
+	font-size: x-large;
+	font-weight: 600;
+	text-decoration: underline;
+}
+
+
+@media screen and (max-width:800px) {
+	.lmj-banner{
+		display:block;
+	}
+	.lmj-logo {
+		width: 50px;
+		position:absolute;
+		top:4px;
+		left:4px;
+	}
+	.lmj-title{
+		padding:0;
+		margin:0;
+		text-align: center;
+	}
+	}

@@ -1,0 +1,38 @@
+.lmj-layout-inner {
+	display: flex;
+	flex-direction: row;
+}
+
+.main-page {
+	position:relative;
+  }
+  
+  .btn {
+	background: none;
+	border: 1px solid white;
+	border-radius: 16px;
+	font-weight: 600;
+	cursor: pointer;
+	align-self: self-start;
+	padding: 16px;
+	color: white;
+	align-self: flex-start;
+	text-shadow: 1px 1px #444;
+	box-shadow: 2px 2px #444;
+}
+.btn:hover {
+	cursor: pointer;
+	background-color: white;
+	color:#31b572;
+	border:solid 1px black;
+	text-shadow:none;
+	box-shadow: none;
+}
+
+
+@media screen and (max-width:800px) {
+.lmj-layout-inner {
+	flex-direction: column;
+}
+
+}

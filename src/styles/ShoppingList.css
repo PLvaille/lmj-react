@@ -1,0 +1,60 @@
+.lmj-shopping-list {
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  background-color: #248554;
+  width: 100%;
+  min-height: 1200px;
+}
+
+.lmj-plant-list {
+  list-style-type: none;
+  padding: 32px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.lmj-plant {
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(142, 176, 147, 0.85)), color-stop(whitesmoke), to(#31b572));
+  background: linear-gradient(to top, rgba(142, 176, 147, 0.85), whitesmoke, #31b572);
+  border: 4px solid #31b572;
+  border-radius: 8px;
+  margin: 8px;
+  -webkit-box-shadow: 2px 2px #222;
+          box-shadow: 2px 2px #222;
+}
+
+.list-empty {
+  font-size: x-large;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border: 2px solid white;
+  border-radius: 16px;
+  width: 60%;
+  margin: 6% auto;
+  padding: 24px 0;
+}
+
+@media screen and (max-width: 800px) {
+  .list-empty {
+    margin-top: 42px;
+    width: 90%;
+    padding: 8px;
+    border: none;
+    text-align: justify;
+  }
+  .lmj-shopping-list {
+    min-height: 600px;
+  }
+}
+/*# sourceMappingURL=ShoppingList.css.map */

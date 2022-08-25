@@ -1,0 +1,32 @@
+img {
+  width: 12px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.water, .light {
+  background-color: whitesmoke;
+  padding-left: 3px;
+  width: 40px;
+  min-width: 40px;
+  border: 1px solid royalblue;
+  border-radius: 8px;
+  height: 20px;
+  max-height: 20px;
+}
+
+.light {
+  margin-top: 2px;
+  border: 1px solid orange;
+}
+
+.light:hover {
+  background-color: #ffe4b3;
+  cursor: help;
+}
+
+.water:hover {
+  background: #dbe3f9;
+  cursor: help;
+}
+/*# sourceMappingURL=Care.css.map */
